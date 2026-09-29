@@ -58,10 +58,15 @@ ________________________________________________________________________________
 # Main Menu Options
 
 >Start new game – Choose a level and begin playing.
+
 >View rules – See a quick list of how the game works.
+
 >View high score – Check the best score and who got it.
+
 >View game history – See all games played in this session.
->View game statistics – See total games played, wins, losses, and win percentage. 
+
+>View game statistics – See total games played, wins, losses, and win percentage.
+
 >Exit – Shows a final summary and closes the game.
 
 ________________________________________________________________________________________________
